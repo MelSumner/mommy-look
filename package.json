@@ -1,13 +1,13 @@
 {
   "name": "mommy-look",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "When you need to add the mommy look to your project",
   "keywords": [
-    "ember-addon"
+    "addon"
   ],
-  "repository": "",
+  "repository": "https://github.com/MelSumner/mommy-look.git",
   "license": "MIT",
-  "author": "",
+  "author": "Melanie Sumner <melaniersumner@gmail.com>",
   "directories": {
     "doc": "doc",
     "test": "tests"
