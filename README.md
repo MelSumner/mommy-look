@@ -1,7 +1,7 @@
 mommy-look
 ==============================================================================
 
-[Short description of the addon.]
+Adds the "mommy-look" icon as a component to your project.
 
 
 Compatibility
@@ -23,13 +23,14 @@ ember install mommy-look
 Usage
 ------------------------------------------------------------------------------
 
-[Longer description of how to use the addon in apps.]
-
+```hbs
+<MommyLook />
+```
 
 Contributing
 ------------------------------------------------------------------------------
 
-See the [Contributing](CONTRIBUTING.md) guide for details.
+Not on this one.
 
 
 License
